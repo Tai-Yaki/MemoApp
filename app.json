@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "MemoApp",
-    "slug": "MemoAppUrl",
+    "slug": "MemoApp",
     "privacy": "public",
     "sdkVersion": "34.0.0",
     "platforms": [
